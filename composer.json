@@ -1,0 +1,13 @@
+{
+    "name": "fylstn/aproject",
+    "description": "aproject - singlepage website",
+    "type": "project",
+    "license": "The Unlicense",
+    "authors": [
+        {
+            "name": "Fandi Yulistian",
+            "email": "fyulistian013@gmail.com"
+        }
+    ],
+    "require": {}
+}
